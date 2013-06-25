@@ -1,0 +1,13 @@
+{
+  "name": "Search Cinii",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon.jpg"
+  },
+  "type": "privileged",
+  "permissions": {
+    "systemXHR": {
+      "description": "for cinii api"
+    }		 
+  }
+}
